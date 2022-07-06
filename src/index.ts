@@ -36,3 +36,4 @@ export * from './indexes';
 export * from './textarea';
 export * from './steps';
 export * from './tab-bar';
+export * from './fab';
